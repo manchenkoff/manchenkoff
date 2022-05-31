@@ -19,7 +19,7 @@
 - Facebook: [manchenkoff](https://fb.com/manchenkoff)
 - Linkedin: [manchenkoff](https://linkedin.com/in/manchenkoff)
 - Instagram: [manchenkof](https://instagram.com/manchenkof)
-- YouTube: [TroubleEntertainment](https://www.youtube.com/c/АртемМанченков)
+- YouTube: [ArtemManchenkov](https://www.youtube.com/c/ArtemManchenkov)
 
 <p>
   <img 
