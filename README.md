@@ -4,11 +4,12 @@
 
 - 💻 Software Engineer at Microsoft
 - 🧡 Open-source lover
+- 🔥 Mentor
 
 ### Skills 😎
 
-- Languages: _PHP, Python, Golang, Dart, C#_
-- Frameworks: _Laravel, Symfony, Yii 2, Flask, aiohttp, Flutter, ASP.NET_
+- Languages: _PHP, Python, Golang, Dart, C#, TypeScript_
+- Frameworks: _Laravel, Symfony, Yii 2, Flask, aiohttp, Sanic, Flutter, .NET_
 - Storages: _Postgres, MySQL, Redis, ElasticSearch, MongoDB, Kusto_
 - Messaging: _RabbitMQ, Kafka_
 
@@ -20,6 +21,7 @@
 - Linkedin: [manchenkoff](https://linkedin.com/in/manchenkoff)
 - Instagram: [manchenkof](https://instagram.com/manchenkof)
 - YouTube: [manchenkoff](https://youtube.com/@manchenkoff)
+- Medium: [manchenkoff](https://manchenkoff.medium.com/)
 
 <p>
   <img 
