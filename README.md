@@ -2,6 +2,7 @@
 
 ### About
 
+- 🏆 10+ years of XP
 - 💻 Software Engineer at Microsoft
 - 🧡 Open-source lover
 - 🔥 Mentor
