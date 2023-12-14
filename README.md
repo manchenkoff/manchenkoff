@@ -21,6 +21,7 @@
 - Facebook: [manchenkoff](https://fb.com/manchenkoff)
 - Linkedin: [manchenkoff](https://linkedin.com/in/manchenkoff)
 - Instagram: [manchenkof](https://instagram.com/manchenkof)
+- Threads: [manchenkof](https://threads.net/@manchenkof)
 - YouTube: [manchenkoff](https://youtube.com/@manchenkoff)
 - Medium: [manchenkoff](https://manchenkoff.medium.com/)
 
