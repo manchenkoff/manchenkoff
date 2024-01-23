@@ -28,13 +28,13 @@
 <p>
   <img 
        align="left" 
-       src="https://github-readme-stats.vercel.app/api/top-langs?username=manchenkoff&show_icons=true&locale=en" 
+       src="https://github-readme-stats.vercel.app/api/top-langs?username=manchenkoff&show_icons=true&locale=en&theme=transparent" 
        alt="manchenkoff" />
 </p>
 
 <p>&nbsp;
   <img 
        align="center" 
-       src="https://github-readme-stats.vercel.app/api?username=manchenkoff&show_icons=true&locale=en" 
+       src="https://github-readme-stats.vercel.app/api?username=manchenkoff&show_icons=true&locale=en&theme=transparent" 
        alt="manchenkoff" />
 </p>
