@@ -30,6 +30,8 @@
 - Buy me a coffee: [@manchenkoff](https://www.buymeacoffee.com/manchenkoff)
 - GitHub sponsorhip: [Say thanks!](https://github.com/sponsors/manchenkoff)
 
+### Statistics
+
 <p>
   <img 
        align="left" 
