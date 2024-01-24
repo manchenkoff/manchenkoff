@@ -25,6 +25,11 @@
 - YouTube: [manchenkoff](https://youtube.com/@manchenkoff)
 - Medium: [manchenkoff](https://manchenkoff.medium.com/)
 
+### Support
+
+- Buy me a coffee: [@manchenkoff](https://www.buymeacoffee.com/manchenkoff)
+- GitHub sponsorhip: [Say thanks!](https://github.com/sponsors/manchenkoff)
+
 <p>
   <img 
        align="left" 
