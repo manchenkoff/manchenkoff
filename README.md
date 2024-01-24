@@ -28,7 +28,11 @@
 ### Support
 
 - Buy me a coffee: [@manchenkoff](https://www.buymeacoffee.com/manchenkoff)
-- GitHub sponsorhip: [Say thanks!](https://github.com/sponsors/manchenkoff)
+- GitHub sponsorship: [Say thanks!](https://github.com/sponsors/manchenkoff)
+
+### Mentorship
+
+You can find me as a mentor on [Meander.com](https://meander.so/m/manchenkoff), feel free to book a session to discuss any IT-related topic you want!
 
 ### Statistics
 
