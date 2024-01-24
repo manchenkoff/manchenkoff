@@ -4,8 +4,10 @@
 
 - 💻 Software Engineer at Microsoft
 - 🏆 10+ years of XP
-- 🧡 Open-source lover
+- 🧡 Open-source contributor
 - 🔥 Mentor
+- 👨‍🏫 Teacher
+- 🔈 Speaker
 
 ### Skills 😎
 
