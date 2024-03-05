@@ -11,8 +11,8 @@
 
 ### Skills 😎
 
-- Languages: _PHP, Python, Golang, Dart, C#, TypeScript_
-- Frameworks: _Laravel, Symfony, Yii 2, Flask, aiohttp, Sanic, Flutter, .NET_
+- Languages: _PHP, Python, Golang, Dart, C#, TypeScript, Rust_
+- Frameworks: _Laravel, Symfony, Yii 2, Flask, aiohttp, Sanic, Flutter, .NET, LiteStar_
 - Storages: _Postgres, MySQL, Redis, ElasticSearch, MongoDB, Kusto_
 - Messaging: _RabbitMQ, Kafka_
 
