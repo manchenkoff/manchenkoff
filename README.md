@@ -34,7 +34,19 @@
 
 ### Mentorship
 
-You can find me as a mentor on [Meander.com](https://meander.so/m/manchenkoff), feel free to book a session to discuss any IT-related topic you want!
+You can find me as a mentor on [Meander](https://meander.so/m/manchenkoff), feel free to book a session to discuss any IT-related topic you want!
+
+### Contributions
+
+- [Yii 2](https://github.com/yiisoft/yii2)
+- [Nuxt modules](https://github.com/nuxt/modules)
+- [Nuxt Content](https://github.com/nuxt/content)
+- [zod-i18n](https://github.com/aiji42/zod-i18n)
+- [openapi-spec-validator](https://github.com/python-openapi/openapi-spec-validator)
+- [php-whois](https://github.com/io-developer/php-whois)
+- [phpinsights](https://github.com/nunomaduro/phpinsights)
+- [azure-resource-manager-schemas](https://github.com/Azure/azure-resource-manager-schemas)
+- [go-tour-ru](https://github.com/kalimatas/go-tour-ru)
 
 ### Statistics
 
