@@ -26,6 +26,7 @@
 - Threads: [manchenkof](https://threads.net/@manchenkof)
 - YouTube: [manchenkoff](https://youtube.com/@manchenkoff)
 - Medium: [manchenkoff](https://manchenkoff.medium.com/)
+- Telegram: [manchenkoff](https://t.me/manchenkoff)
 
 ### Support
 
