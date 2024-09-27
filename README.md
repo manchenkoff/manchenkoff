@@ -53,14 +53,26 @@ You can find me as a mentor on [Meander](https://meander.so/m/manchenkoff), feel
 
 <p>
   <img 
-       align="left" 
-       src="https://github-readme-stats.vercel.app/api/top-langs?username=manchenkoff&show_icons=true&locale=en&theme=transparent" 
-       alt="manchenkoff" />
+      align="left" 
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=manchenkoff&show_icons=true&locale=en&theme=transparent" 
+      alt="manchenkoff"
+      width="300" />
 </p>
 
-<p>&nbsp;
+<p>
   <img 
-       align="center" 
-       src="https://github-readme-stats.vercel.app/api?username=manchenkoff&show_icons=true&locale=en&theme=transparent" 
-       alt="manchenkoff" />
+      align="center" 
+      src="https://github-readme-stats.vercel.app/api?username=manchenkoff&show_icons=true&locale=en&theme=transparent" 
+      alt="manchenkoff"
+      width="500"/>
+</p>
+
+<p>
+  <a href="https://nuxters.nuxt.com/manchenkoff">
+    <img
+        align="center"
+        src="https://nuxters.nuxt.com/card/manchenkoff/og.png"
+        alt="manchenkoff Nuxter profile"
+        width="500" />
+  </a>
 </p>
