@@ -59,7 +59,7 @@ You can find me as a mentor on [Meander](https://meander.so/m/manchenkoff), feel
       width="300" />
 </p>
 
-<p>
+<p>&nbsp;
   <img 
       align="center" 
       src="https://github-readme-stats.vercel.app/api?username=manchenkoff&show_icons=true&locale=en&theme=transparent" 
@@ -67,7 +67,7 @@ You can find me as a mentor on [Meander](https://meander.so/m/manchenkoff), feel
       width="500"/>
 </p>
 
-<p>
+<p>&nbsp;
   <a href="https://nuxters.nuxt.com/manchenkoff">
     <img
         align="center"
