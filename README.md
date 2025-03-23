@@ -2,7 +2,7 @@
 
 ### About
 
-- 💻 Software Engineer at Microsoft
+- 💻 Software Engineer, ex-Microsoft
 - 🏆 10+ years of XP
 - 🧡 Open-source contributor
 - 🔥 Mentor
@@ -27,6 +27,7 @@
 - YouTube: [manchenkoff](https://youtube.com/@manchenkoff)
 - Medium: [manchenkoff](https://manchenkoff.medium.com/)
 - Telegram: [manchenkoff](https://t.me/manchenkoff)
+- Bluesky: [manchenkoff](https://bsky.app/profile/manchenkoff.bsky.social)
 
 ### Support
 
