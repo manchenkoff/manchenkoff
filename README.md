@@ -2,7 +2,7 @@
 
 ### About
 
-- 💻 Software Engineer, ex-Microsoft
+- 💻 Senior Software Engineer @ Fuse Energy
 - 🏆 10+ years of XP
 - 🧡 Open-source contributor
 - 🔥 Mentor
