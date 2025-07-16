@@ -29,6 +29,19 @@
 - Telegram: [manchenkoff](https://t.me/manchenkoff)
 - Bluesky: [manchenkoff](https://bsky.app/profile/manchenkoff.bsky.social)
 
+### Public speaking
+
+- **WeAreDevelopers World Congress 2025**, July 2025 - Technical Diversity 101: Become a better engineer
+- **Global Vue.js Summit 2025**, April 2025 - Nuxt: modules, code-generation, production
+- **GoTech World 2024**, November 2024 - Spec-Driven Development: Why it works and why it doesn't
+- **DotNext 2024**, September 2024 - Azure Data Explorer as a main service database
+- **WeAreDevelopers World Congress 2024**, July 2024 - Specifications as a better way of software development
+- **Geekle AI Hackathon** - July 2024 - Cloud Architecture Judge
+- **Software Architecture Summit 2024**, May 2024 - Specifications as a better way of software development
+- **Mambo Jambo Cloud Talks**, February 2024 - Azure Data Explorer as a main service database
+- **Python Prague Meetup**, January 2024 - Code generation and specifications in Python
+- **Habr Career Meetup**, April 2023 - The most challenging interview questions
+
 ### Support
 
 - Buy me a coffee: [@manchenkoff](https://www.buymeacoffee.com/manchenkoff)
