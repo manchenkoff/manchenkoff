@@ -56,7 +56,7 @@ You can find me as a mentor on [MentorCruise](https://mentors.to/manchenkoff), f
 <p>
   <img 
       align="left" 
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=manchenkoff&show_icons=true&locale=en&theme=transparent" 
+      src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=manchenkoff&show_icons=true&locale=en&theme=transparent" 
       alt="manchenkoff"
       width="300" />
 </p>
@@ -64,7 +64,7 @@ You can find me as a mentor on [MentorCruise](https://mentors.to/manchenkoff), f
 <p>&nbsp;
   <img 
       align="center" 
-      src="https://github-readme-stats.vercel.app/api?username=manchenkoff&show_icons=true&locale=en&theme=transparent" 
+      src="https://github-readme-stats-eight-theta.vercel.app/api?username=manchenkoff&show_icons=true&locale=en&theme=transparent" 
       alt="manchenkoff"
       width="500"/>
 </p>
